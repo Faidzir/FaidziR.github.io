@@ -1,0 +1,78 @@
+#hero{
+    height: 100vh;
+    background-color: black;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.alike{
+    font-family: 'Alike', serif;
+}
+.test{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#opener{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-style: italic;
+    color: white;
+}
+#name{
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+#about-me{
+    height: 50vh;
+}
+
+.header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+}
+
+#about-me > *{
+    font-family: 'Alike', serif;
+    font-size: 20px;
+    color: #575755;
+}
+
+#linkedin{
+    font-family: 'Alike', serif;
+    border-radius: 6px;
+    padding-left: 66.5px;
+    padding-right: 66.5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #0A66C2;
+    color: white;
+    border-style: none;
+}
+#instagram{
+    border-radius: 6px;
+    padding-left: 57.5px;
+    padding-right: 57.5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #C13584;
+    color: white;
+    border-style: none;
+}
+
+#github{
+    border-radius: 6px;
+    padding-left: 80.5px;
+    padding-right: 80.5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: black;
+    border-style: none;
+}
